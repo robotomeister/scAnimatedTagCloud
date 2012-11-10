@@ -14,6 +14,7 @@ Now download and include this script:
 
 Sample HTML:
     <pre>
+        <code>
         <div class="scTagsContainer scTags">
             <ul>
                 <li class="scExpressiveFontStyle3"><span>LAMP</span><span class="scInitialHidden">.NET</span></li>            
@@ -24,6 +25,7 @@ Sample HTML:
                 <li class="scExpressiveFontStyle3"><span>Symfony</span><span class="scInitialHidden">CakePHP</span></li>
             </ul>
         </div> 
+        </code>
     </pre>
 
 Initialize and start the plugin:
