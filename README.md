@@ -13,7 +13,7 @@ Now download and include this script:
 ## Usage
 
 Sample HTML:
-    <div class="scTagsContainer scTags">
+    `<div class="scTagsContainer scTags">
         <ul>
             <li class="scExpressiveFontStyle3"><span>LAMP</span><span class="scInitialHidden">.NET</span></li>            
             <li class="scExpressiveFontStyle2"><span>git</span><span class="scInitialHidden">svn</span></li>
@@ -22,7 +22,7 @@ Sample HTML:
             <li class="scExpressiveFontStyle2"><span>PHP</span><span class="scInitialHidden">CSS</span></li>
             <li class="scExpressiveFontStyle3"><span>Symfony</span><span class="scInitialHidden">CakePHP</span></li>
         </ul>
-    </div>    
+    </div>`    
 
 Initialize and start the plugin:
 
