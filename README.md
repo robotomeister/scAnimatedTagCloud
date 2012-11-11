@@ -13,19 +13,18 @@ Now download and include this script:
 ## Usage
 
 Sample HTML:
-    <blockquote>
-        <div class="scTagsContainer scTags">
-            <ul>
-                <li class="scExpressiveFontStyle3"><span>LAMP</span><span class="scInitialHidden">.NET</span></li>            
-                <li class="scExpressiveFontStyle2"><span>git</span><span class="scInitialHidden">svn</span></li>
-                <li class="scExpressiveFontStyle1"><span>LESS</span><span class="scInitialHidden">HTML</span></li>
-                <li class="scExpressiveFontStyle3"><span>MySQL</span><span class="scInitialHidden">MSSQL</span></li>
-                <li class="scExpressiveFontStyle2"><span>PHP</span><span class="scInitialHidden">CSS</span></li>
-                <li class="scExpressiveFontStyle3"><span>Symfony</span><span class="scInitialHidden">CakePHP</span></li>
-            </ul>
-        </div> 
-    </blockquote>
 
+<pre><code>&lt;div class=&quot;scTagsContainer scTags&quot;&gt;
+            &lt;ul&gt;
+                &lt;li class=&quot;scExpressiveFontStyle3&quot;&gt;&lt;span&gt;LAMP&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;.NET&lt;/span&gt;&lt;/li&gt;            
+                &lt;li class=&quot;scExpressiveFontStyle2&quot;&gt;&lt;span&gt;git&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;svn&lt;/span&gt;&lt;/li&gt;
+                &lt;li class=&quot;scExpressiveFontStyle1&quot;&gt;&lt;span&gt;LESS&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;HTML&lt;/span&gt;&lt;/li&gt;
+                &lt;li class=&quot;scExpressiveFontStyle3&quot;&gt;&lt;span&gt;MySQL&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;MSSQL&lt;/span&gt;&lt;/li&gt;
+                &lt;li class=&quot;scExpressiveFontStyle2&quot;&gt;&lt;span&gt;PHP&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;CSS&lt;/span&gt;&lt;/li&gt;
+                &lt;li class=&quot;scExpressiveFontStyle3&quot;&gt;&lt;span&gt;Symfony&lt;/span&gt;&lt;span class=&quot;scInitialHidden&quot;&gt;CakePHP&lt;/span&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;</code></pre>    
+    
 Initialize and start the plugin:
 
     $('.scTagsContainer').scAnimatedTagCloud();    
